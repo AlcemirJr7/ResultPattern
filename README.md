@@ -1,4 +1,4 @@
-# ResultPattern
+# Result Pattern
 
 Este projeto em C# .NET simula a criação de um pedido, onde o sistema valida as informações inseridas utilizando o **FluentValidation**.
 
